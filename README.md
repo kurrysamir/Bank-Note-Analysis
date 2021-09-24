@@ -6,11 +6,11 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 Attribute Information:
 
-variance of Wavelet Transformed image (continuous)
-skewness of Wavelet Transformed image (continuous)
-curtosis of Wavelet Transformed image (continuous)
-entropy of image (continuous)
-class (integer)
+Variance of Wavelet Transformed image (continuous)
+Sskewness of Wavelet Transformed image (continuous)
+Ccurtosis of Wavelet Transformed image (continuous)
+Eentropy of image (continuous)
+Class (integer)
 
 Dataset: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 
