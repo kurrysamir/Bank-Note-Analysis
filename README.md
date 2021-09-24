@@ -11,6 +11,7 @@ skewness of Wavelet Transformed image (continuous)
 curtosis of Wavelet Transformed image (continuous)
 entropy of image (continuous)
 class (integer)
+
 Dataset: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 
 UCI: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
